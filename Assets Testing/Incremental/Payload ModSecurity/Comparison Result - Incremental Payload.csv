@@ -1,0 +1,4 @@
+Website,Avg CPU (m),Max CPU (m),Avg Memory (Mi),Max Memory (Mi),Avg Ingress CPU (m),Max Ingress CPU (m),Avg Ingress Memory (Mi),Max Ingress Memory (Mi),ModSecurity Blocked (%)
+WordPress,2.394,5.0,311.4,495.6,1270.448,1575.2,92.296,95.2,97.272
+Ghost,3.956,9.0,243.046,380.2,1405.06,1561.4,86.172,88.2,99.52
+Drupal,20.726,53.8,306.948,415.4,1268.456,1560.6,71.356,74.4,94.962

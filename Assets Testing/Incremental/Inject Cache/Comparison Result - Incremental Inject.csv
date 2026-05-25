@@ -1,0 +1,4 @@
+Website,Avg CPU (m),Max CPU (m),Avg Memory (Mi),Max Memory (Mi),Avg Ingress CPU (m),Max Ingress CPU (m),Avg Ingress Memory (Mi),Max Ingress Memory (Mi)
+WordPress,271.104,977.4,470.65,911.4,60.472,239.6,77.076,167.0
+Ghost,317.22,914.0,247.06,513.0,43.864,77.6,63.888,67.0
+Drupal,253.256,707.2,390.64,563.8,74.002,108.4,67.61,72.0

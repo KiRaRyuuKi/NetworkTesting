@@ -1,0 +1,4 @@
+Website,Avg CPU (m),Max CPU (m),Avg Memory (Mi),Max Memory (Mi)
+WordPress,266.691,944.7,290.731,576.1
+Ghost,282.562,884.5,230.042,490.8
+Drupal,223.452,637.8,298.267,578.8

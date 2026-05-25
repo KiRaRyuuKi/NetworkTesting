@@ -1,0 +1,4 @@
+Website,Avg CPU (%),Max CPU (%),Avg Memory (MB),Max Memory (MB),Avg I/O (S),Max I/O (S),Context Switches
+WordPress,14.464,29.4,4315.81,4346.6,314.05,1959.2,16277.658
+Ghost,16.212,33.8,4326.268,4352.4,350.694,2466.4,18157.316
+Drupal,18.288,38.2,4274.34,4305.4,762.914,5356.8,18897.426

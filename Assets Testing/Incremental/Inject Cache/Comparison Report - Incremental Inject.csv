@@ -1,0 +1,4 @@
+website,avg_response (ms),p95_response (ms),avg_latency (ms),error_rate (%),throughput (req/s),cache bypass (%),apdex
+WordPress,5155.682,18985.8,4988.79,50.894,85.208,100.0,0.583
+Ghost,3040.25,9083.34,2889.448,15.55,87.526,100.0,0.444
+Drupal,1601.468,4351.45,1211.428,21.442,217.462,100.0,0.566
